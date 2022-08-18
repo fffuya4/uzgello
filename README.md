@@ -7,3 +7,6 @@ if you find a bug, please feel free to report it!!
 Our Discord server: https://discord.gg/MTQ3FuBYwr
 
 Buy me a coffee: https://www.buymeacoffee.com/liluzg
+
+# source code
+There is no source code for now, please do not download the source code file in the release section, use the setup.
