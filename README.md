@@ -10,3 +10,9 @@ Buy me a coffee: https://www.buymeacoffee.com/liluzg
 
 # source code
 There is no source code for now, please do not download the source code file in the release section, use the setup.
+
+# ChangeLog
++Bug fixes
+-Deleted Delete file feature
++Added Auto Save feature
+v0.2
