@@ -13,6 +13,9 @@ There is no source code for now, please do not download the source code file in 
 
 # ChangeLog
 +Bug fixes
+
 -Deleted Delete file feature
+
 +Added Auto Save feature
+
 v0.2
